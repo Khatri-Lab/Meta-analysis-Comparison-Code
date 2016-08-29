@@ -1,8 +1,10 @@
-# README #
+# # README # #
 
-Methods to increase reproducibility in differential gene expression via meta-analysis
+## Methods to increase reproducibility in differential gene expression via meta-analysis
+
 Sweeney, Haynes, Vallania, Ioannidis, and Khati
-Nucleic Acids Research, Accepted, 2016
+
+Nucleic Acids Research, Under Review, 2016 ##
 
 
 This respository holds code necessary to recreate the figures and analysis in the paper above. Note that bitbucket cannot hold the necessary data object; a copy of this code, and of the necessary data object, can be found at: 
