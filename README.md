@@ -2,7 +2,7 @@
 
 ## Methods to increase reproducibility in differential gene expression via meta-analysis
 
-Sweeney, Haynes, Vallania, Ioannidis, and Khati
+Sweeney, Haynes, Vallania, Ioannidis, and Khatri
 
 Nucleic Acids Research, Under Review, 2016 ##
 
