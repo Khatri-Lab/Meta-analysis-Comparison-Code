@@ -4,7 +4,9 @@
 
 Sweeney, Haynes, Vallania, Ioannidis, and Khatri
 
-Nucleic Acids Research, Under Review, 2016 ##
+Nucleic Acids Research, Accepted, 2016 
+
+------------------------------------------
 
 
 This respository holds code necessary to recreate the figures and analysis in the paper above. Note that bitbucket cannot hold the necessary data object; a copy of this code, and of the necessary data object, can be found at: 
